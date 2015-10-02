@@ -106,7 +106,7 @@ public final class RomanNumeral {
      * @return the integer value
      */
     public int getValue() {
-        return value;
+        return value + 100;
     }
 
     /**
